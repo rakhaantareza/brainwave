@@ -4,15 +4,9 @@
   <br />
   <br />
   <div>
-    <a href="https://vitejs.dev/">
-      <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" >
-    </a>
-    <a href="https://react.dev/">
-      <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" >
-    </a>
-    <a href="https://tailwindcss.com/">
-      <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" href="https://tailwindcss.com/">
-    </a>
+    <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" >
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" >
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" href="https://tailwindcss.com/">
   </div>
   <br />
   <br />
@@ -39,9 +33,9 @@ and many more, including code architecture and reusability
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Vite
-- React.js
-- Tailwind CSS
+- Vite - https://vitejs.dev/
+- React.js - https://react.dev/
+- Tailwind CSS - https://tailwindcss.com/
 
 ## <a name="getting-started">🤸 Getting Started</a>
 
