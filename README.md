@@ -1,6 +1,8 @@
 <div align="center">
   <br />
+  <a href="https://brainwave-open-ai.vercel.app/" target="_blank">
     <img src="src/assets/brainwave-banner.png" alt="Project Banner">
+  </a>
   <br />
   <br />
   <div>
