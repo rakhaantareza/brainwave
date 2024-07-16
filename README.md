@@ -11,7 +11,7 @@
   <br />
   <br />
   <div align="center">
-     Live Website - https://brainwave-parallax.vercel.app/
+     Live Website - https://brainwave-open-ai.vercel.app/
   </div>
 </div>
 
