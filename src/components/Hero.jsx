@@ -14,7 +14,7 @@ const Hero = () => {
 
   return (
     <Section
-      className="pt-[12rem] -mt-[5.25rem]"
+      className="pt-[12.25rem] -mt-[5.25rem]"
       crosses
       crossesOffset="lg:translate-y-[5.25rem]"
       customPaddings
@@ -77,9 +77,8 @@ const Hero = () => {
                 </ScrollParallax>
               </div>
             </div>
-
-            <Gradient />
           </div>
+          <Gradient />
           <div className="absolute -top-[54%] left-1/2 w-[234%] -translate-x-1/2 md:-top-[46%] md:w-[138%] lg:-top-[104%]">
             <img
               src={heroBackground}
